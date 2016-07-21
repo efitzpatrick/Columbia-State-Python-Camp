@@ -1,0 +1,34 @@
+Pokemon
+-HP
+-Type
+- Power
+- Defense
+- Attack
+-Special Attack
+-Special Defense
+- Speed
+
+
+- attack_strength and name 1
+- attack  strenght and name 2
+- attack strenth and name 3
+- attack strength and name 4
+
+
+Actions
+- attack 1
+- attack 2
+- attack 3
+- attack 4
+- Run
+- take a hit
+
+
+
+Arguments
+hp
+species
+attack
+defense
+attack 1[list]
+attack2 [list]

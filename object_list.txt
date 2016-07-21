@@ -1,0 +1,18 @@
+Ball
+
+Attributes
+-color
+-shape
+- pattern
+-size
+-squishy
+-texture
+
+
+Actions
+-squeeze
+-throw
+- spin
+- drop
+-kick
+- catch
